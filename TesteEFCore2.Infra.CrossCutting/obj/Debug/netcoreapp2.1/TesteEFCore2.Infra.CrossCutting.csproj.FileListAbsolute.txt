@@ -1,0 +1,15 @@
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra.CrossCutting\bin\Debug\netcoreapp2.1\appsettings.json
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra.CrossCutting\bin\Debug\netcoreapp2.1\TesteEFCore2.Infra.CrossCutting.deps.json
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra.CrossCutting\bin\Debug\netcoreapp2.1\TesteEFCore2.Infra.CrossCutting.dll
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra.CrossCutting\bin\Debug\netcoreapp2.1\TesteEFCore2.Infra.CrossCutting.pdb
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra.CrossCutting\bin\Debug\netcoreapp2.1\TesteEFCore2.Domain.dll
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra.CrossCutting\bin\Debug\netcoreapp2.1\TesteEFCore2.Infra.dll
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra.CrossCutting\bin\Debug\netcoreapp2.1\TesteEFCore2.Domain.pdb
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra.CrossCutting\bin\Debug\netcoreapp2.1\TesteEFCore2.Infra.pdb
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra.CrossCutting\obj\Debug\netcoreapp2.1\TesteEFCore2.Infra.CrossCutting.csprojAssemblyReference.cache
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra.CrossCutting\obj\Debug\netcoreapp2.1\TesteEFCore2.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra.CrossCutting\obj\Debug\netcoreapp2.1\TesteEFCore2.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra.CrossCutting\obj\Debug\netcoreapp2.1\TesteEFCore2.Infra.CrossCutting.AssemblyInfo.cs
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra.CrossCutting\obj\Debug\netcoreapp2.1\TesteEFCore2.Infra.CrossCutting.csproj.CopyComplete
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra.CrossCutting\obj\Debug\netcoreapp2.1\TesteEFCore2.Infra.CrossCutting.dll
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra.CrossCutting\obj\Debug\netcoreapp2.1\TesteEFCore2.Infra.CrossCutting.pdb

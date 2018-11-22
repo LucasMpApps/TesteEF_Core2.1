@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\dev\\TesteEFCore2\\TesteEFCore2.Infra\\TesteEFCore2.Infra.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

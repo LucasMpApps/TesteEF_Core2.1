@@ -1,0 +1,9 @@
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Domain\bin\Debug\netcoreapp2.1\TesteEFCore2.Domain.deps.json
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Domain\bin\Debug\netcoreapp2.1\TesteEFCore2.Domain.dll
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Domain\bin\Debug\netcoreapp2.1\TesteEFCore2.Domain.pdb
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Domain\obj\Debug\netcoreapp2.1\TesteEFCore2.Domain.csprojAssemblyReference.cache
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Domain\obj\Debug\netcoreapp2.1\TesteEFCore2.Domain.csproj.CoreCompileInputs.cache
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Domain\obj\Debug\netcoreapp2.1\TesteEFCore2.Domain.AssemblyInfoInputs.cache
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Domain\obj\Debug\netcoreapp2.1\TesteEFCore2.Domain.AssemblyInfo.cs
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Domain\obj\Debug\netcoreapp2.1\TesteEFCore2.Domain.dll
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Domain\obj\Debug\netcoreapp2.1\TesteEFCore2.Domain.pdb

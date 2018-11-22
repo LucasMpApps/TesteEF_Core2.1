@@ -1,0 +1,15 @@
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra\bin\Debug\netcoreapp2.1\TesteEFCore2.Infra.deps.json
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra\bin\Debug\netcoreapp2.1\TesteEFCore2.Infra.dll
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra\obj\Debug\netcoreapp2.1\TesteEFCore2.Infra.csprojAssemblyReference.cache
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra\obj\Debug\netcoreapp2.1\TesteEFCore2.Infra.csproj.CoreCompileInputs.cache
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra\obj\Debug\netcoreapp2.1\TesteEFCore2.Infra.AssemblyInfoInputs.cache
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra\obj\Debug\netcoreapp2.1\TesteEFCore2.Infra.AssemblyInfo.cs
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra\bin\Debug\netcoreapp2.1\TesteEFCore2.Infra.pdb
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra\obj\Debug\netcoreapp2.1\TesteEFCore2.Infra.dll
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra\obj\Debug\netcoreapp2.1\TesteEFCore2.Infra.pdb
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra\bin\Debug\netcoreapp2.1\TesteEFCore2.Domain.dll
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra\bin\Debug\netcoreapp2.1\TesteEFCore2.Domain.pdb
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra\obj\Debug\netcoreapp2.1\TesteEFCore2.Infra.csproj.CopyComplete
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra\bin\Debug\netcoreapp2.1\appsettings.json
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra\bin\Debug\netcoreapp2.1\TesteEFCore2.Infra.runtimeconfig.json
+C:\dev\TesteEFCore2\TesteEFCore2\TesteEFCore2.Infra\bin\Debug\netcoreapp2.1\TesteEFCore2.Infra.runtimeconfig.dev.json
